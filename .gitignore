@@ -1,0 +1,41 @@
+# Ignore logs and dumps
+*.log
+*.stackdump
+
+# VSCode settings
+.vscode/
+
+# Android/iOS build & metadata files
+paysync/.firebaserc
+paysync/.metadata
+paysync/android/
+paysync/ios/
+
+# Firebase files
+paysync/firebase.json
+paysync/firestore.indexes.json
+paysync/firestore.rules
+
+# Flutter/Dart build & metadata files
+paysync/.dart_tool/
+paysync/.packages
+paysync/build/
+paysync/pubspec.lock
+paysync/.idea/
+
+# Assets
+paysync/assets/
+
+# Dataconnect auto-generated files
+paysync/dataconnect-generated/
+
+# Generated files
+*.iml
+*.class
+*.apk
+*.jar
+
+# General backup or OS files
+*.DS_Store
+Thumbs.db
+
