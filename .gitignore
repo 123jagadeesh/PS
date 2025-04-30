@@ -11,6 +11,7 @@ paysync/.metadata
 paysync/android/
 paysync/ios/
 
+server/src/main/resources/serviceAccountKey.json
 # Firebase files
 paysync/firebase.json
 paysync/firestore.indexes.json
